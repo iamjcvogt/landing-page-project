@@ -1,7 +1,7 @@
 # landing-page-project
 
-First time building a landing page using HTML/CSS.
-Rebuilding the landing page from The Odin Project.
-Using Flexbox for arrangement and using semantic tags.
+First time coding a landing page using HTML/CSS.
+Rebuilding the landing page in "final.png" I downloaded from The Odin Project.
+Practicing Flexbox for arrangement.
 
-Goal for the final commit is to have fully-simplified and cleaned up code. <3
+My goal for the final commit is to have fully-simplified and cleaned up code. <3
